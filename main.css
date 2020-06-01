@@ -1,0 +1,45 @@
+* { 
+    background-color: lightseagreen;
+}
+
+.headDiv {
+    border: 2px outset black;
+    border-style: solid;
+    border-color: brown;
+    position: fixed;
+    width: 1532px;
+    top: 0px;
+    height: 100px;
+    left: 0px;
+}
+
+.bodyDiv {
+    border: 2px outset black;
+    border-style: solid;
+    border-color: brown;
+    position: fixed;
+    width: 1532px;
+    top: 105px;
+    height: 507px;
+    left: 0px;
+}
+
+.footDiv {
+    border: 2px outset black;
+    border-style: solid;
+    border-color: brown;
+    position: fixed;
+    width: 1532px;
+    top: 617px;
+    height: 100px;
+    left: 0px;
+}
+h1 {
+text-align: center;
+color: orangered;
+}
+
+p {
+   font-size: 24px;
+   text-align: center;
+}
