@@ -40,6 +40,28 @@ color: orangered;
 }
 
 p {
-   font-size: 24px;
-   text-align: center;
+    font-size: 24px;
+    text-align: center;
+    }
+
+.btn-group button{
+    border: thick;
+    border-color: red;
+    cursor: pointer;
+    float: left;
+    padding: 2px;
+    margin: 4px;
+    font-size: 16px;
+    }
+
+.button{
+    background-color: grey;
+    border-radius: 12px;
+    border: thin;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    font-size: 6px;
+    margin: 4px;
+    width: 10%;
 }
