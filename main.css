@@ -24,6 +24,17 @@
     left: 0px;
 }
 
+.vidDiv {
+    border: 2px outset black;
+    border-style: solid;
+    border-color: brown;
+    position: fixed;
+    width: 1532px;
+    top: 105px;
+    height: 507px;
+    left: 0px;
+}
+
 .footDiv {
     border: 2px outset black;
     border-style: solid;
