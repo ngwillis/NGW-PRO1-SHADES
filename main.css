@@ -23,12 +23,7 @@
     height: 507px;
     left: 0px;
 }
-.body1Div {
-    border: 2px outset black;
-    border-style: solid;
-    border-color: brown;
-    position: fixed;
-}
+
 .vidDiv {
     border: 2px outset black;
     border-style: solid;
@@ -50,6 +45,7 @@
     height: 100px;
     left: 0px;
 }
+
 h1 {
 text-align: center;
 color: orangered;
