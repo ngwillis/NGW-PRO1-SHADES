@@ -25,14 +25,16 @@
 }
 
 .vidDiv {
-    border: 2px outset black;
+    border: 2px;
     border-style: solid;
-    border-color: brown;
+    border-color: lightseagreen;
     position: fixed;
     width: 1532px;
+    /* top: 201px; */
     top: 105px;
     height: 507px;
-    left: 0;
+    left: 361px;
+    /* left: 464px; */
 }
 
 .footDiv {
