@@ -29,10 +29,11 @@
     border-style: solid;
     border-color: lightseagreen;
     position: fixed;
-    width: 1532px;
+    /* top: 201px; */
     top: 105px;
-    height: 507px;
+    /* height: 507px; */
     left: 361px;
+    /* left: 464px; */
 }
 
 .footDiv {
