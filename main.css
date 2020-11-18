@@ -9,7 +9,7 @@
     position: fixed;
     width: 1532px;
     top: 0px;
-    height: 100px;
+    height: 101px;
     left: 0px;
 }
 
@@ -20,20 +20,19 @@
     position: fixed;
     width: 1532px;
     top: 105px;
-    height: 507px;
+    height: 500px;
     left: 0px;
 }
 
 .vidDiv {
-    border: 2px;
+    border: 2px outset black;
     border-style: solid;
     border-color: lightseagreen;
     position: fixed;
-    /* top: 201px; */
+    width:  668px;   /* 1532px; */
     top: 105px;
-    /* height: 507px; */
-    left: 361px;
-    /* left: 464px; */
+    height: 500px;
+    left: 361px;                 /* was 361 */
 }
 
 .footDiv {
@@ -42,8 +41,8 @@
     border-color: brown;
     position: fixed;
     width: 1532px;
-    top: 617px;
-    height: 100px;
+    top: 609px;
+    height: 108px;
     left: 0px;
 }
 
