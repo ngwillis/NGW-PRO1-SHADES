@@ -32,7 +32,7 @@
     width:  668px;   /* 1532px; */
     top: 105px;
     height: 500px;
-    left: 361px;                 /* was 361 */
+    left: 440px;                 /* was 361 */
 }
 
 .footDiv {
@@ -41,7 +41,7 @@
     border-color: brown;
     position: fixed;
     width: 1532px;
-    top: 609px;
+    top: 610px;
     height: 108px;
     left: 0px;
 }
