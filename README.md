@@ -9,3 +9,5 @@ of photographs and display them as a sequence showing seasonal changes over two 
 added background music to new draft edition.
 
 [27/01/21] Release of Edition 1 of "Silent" Video.
+
+[28/01/21] Release of Edition 2 includes Piano Tree (Ed 2), Quiet Tree (Ed 1) New (Local) Tree and other cosmetic changes.
