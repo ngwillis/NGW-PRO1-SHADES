@@ -11,3 +11,5 @@ added background music to new draft edition.
 [27/01/21] Release of Edition 1 of "Silent" Video.
 
 [28/01/21] Release of Edition 2 includes Piano Tree (Ed 2), Quiet Tree (Ed 1) New (Local) Tree and other cosmetic changes.
+
+[15/02/21] Release of Edition 3 with Sighing Tree (Ed 3) and Silent Tree (Ed 1) as the final copies - for reflection.
